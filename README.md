@@ -1,9 +1,8 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=600&size=18&duration=4000&pause=1000&color=A418F5&vCenter=true&width=435&lines=%CA%95+%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94+Bem+Vindo+ao+meu+perfil!+%E2%9C%BF;%E2%98%86+Prazer%2C+me+chamo+Amy+Orqu%C3%ADdea!+(%E2%97%95%E2%80%BF%E2%97%95%E2%9C%BF)" alt="Typing SVG" /></a>
 </div>
 
+##### _Sou uma programadora trans Full-Stack. Desde minha infância sou apaixonada na área de tecnologia, especialmente a programação. Iniciei minha carreira com a linguagem Java, principalmente pela curiosidade; atualmente sendo minha linguagem favorita de se trabalhar._
 
 - :woman_technologist: Hoje estou focando no Back-End
 - :woman_student: Estou estudando Java e Javascript
