@@ -26,7 +26,7 @@
   <img align="center" alt="Amy-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </div>
   
-<h3 align="left">"Contate-me!"</h3>
+<h3 align="left">Contate-me!</h3>
 <div>  
   <a href = "mailto:amy.orquidea57@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amy-orquídea-79151238b?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
