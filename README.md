@@ -2,12 +2,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=600&size=18&duration=4000&pause=1000&color=A418F5&vCenter=true&width=435&lines=%CA%95+%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94+Bem+Vindo+ao+meu+perfil!+%E2%9C%BF;%E2%98%86+Prazer%2C+me+chamo+Amy+Orqu%C3%ADdea!+(%E2%97%95%E2%80%BF%E2%97%95%E2%9C%BF)" alt="Typing SVG" /></a>
 </div>
 
-##### _Sou uma programadora trans Full-Stack. Desde minha infância sou apaixonada na área de tecnologia, especialmente a programação. Iniciei minha carreira com a linguagem Java, principalmente pela curiosidade; atualmente sendo minha linguagem favorita de se trabalhar._
+#
+<h3 align="left">Sobre Mim</h3>
+<i>Sou uma programadora trans Full-Stack. Desde minha infância sou apaixonada na área de tecnologia, especialmente a programação. Iniciei minha carreira com a linguagem Java, principalmente pela curiosidade; atualmente sendo minha linguagem favorita de se trabalhar.</i>
 
 - :woman_technologist: Hoje estou focando no Back-End
 - :woman_student: Estou estudando Java e Javascript
 - :rainbow_flag: Pronomes: ela/elu
 
+#
+
+<img align="right" alt="" height="220px" src="./src/silverwolf.gif">
+
+<h3 align="left">Minhas Linguagens e Frameworks</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Amy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Amy-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -18,8 +25,7 @@
   <img align="center" alt="Amy-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </div>
   
-  #
- 
+<h3 align="left">"Contate-me!"</h3>
 <div>  
   <a href = "mailto:amy.orquidea57@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amy-orquídea-79151238b?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
