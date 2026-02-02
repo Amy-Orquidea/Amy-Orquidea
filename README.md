@@ -12,12 +12,13 @@
 
 #
 
-<img align="right" alt="" height="220px" src="./src/silverwolf.gif">
+<img align="right" alt="" height="220px" src="./src/anime.gif">
 
 <h3 align="left">Minhas Linguagens e Frameworks</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Amy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Amy-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Amy-Mariadb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
   <img align="center" alt="Amy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
