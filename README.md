@@ -12,7 +12,7 @@
 
 #
 
-<img align="right" alt="" height="220px" src="./src/anime.gif">
+<img align="right" alt="" height="210px" src="./src/anime.gif">
 
 <h3 align="left">Minhas Linguagens e Frameworks</h3>
 <div style="display: inline_block"><br>
