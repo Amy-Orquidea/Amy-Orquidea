@@ -25,7 +25,7 @@
   <td><img align="center" alt="Amy-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
   <td><img align="center" alt="Amy-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
   <td><img align="center" alt="Amy-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
-  <td><img align="center" alt="Amy-Flask" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"></td>
+  <td><img align="center" alt="Amy-Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"></td>
   </tr>
 </table>
 <br>
