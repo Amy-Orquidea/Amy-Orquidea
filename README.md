@@ -15,7 +15,7 @@
 <img align="right" alt="" height="210px" src="./src/anime.gif">
 
 <h3 align="left">Minhas Linguagens e Frameworks</h3>
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Amy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Amy-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Amy-Mariadb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
